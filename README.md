@@ -13,6 +13,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gradle" height="60" alt="gradle logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angular logo" />
