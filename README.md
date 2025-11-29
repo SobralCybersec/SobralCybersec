@@ -15,6 +15,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angular logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo" />
