@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my life - Linkin Park Reference</h1>
+<h1 align="center">Welcome!</h1>
 
 ###
 
