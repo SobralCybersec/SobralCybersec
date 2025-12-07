@@ -41,8 +41,7 @@
   <img src="https://github-profile-trophy.vercel.app?username=sobralcybersec&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
-![Status do Github](https://github-readme-stats.vercel.app/api?username=SobralCybersec&show_icons=true&theme=radical)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SobralCyberSec)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ###
