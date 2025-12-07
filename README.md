@@ -42,6 +42,10 @@
 </div>
 
 ###
+![Status do Github](https://github-readme-stats.vercel.app/api?username=sobralcybersec&show_icons=true&theme=radical)
+
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SobralCybersec/SobralCybersec/output/pacman-contribution-graph-dark.svg">
