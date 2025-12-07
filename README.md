@@ -42,7 +42,7 @@
 </div>
 
 ###
-![Status do Github](https://github-readme-stats.vercel.app/api?username=sobralcybersec&show_icons=true&theme=radical)
+![Status do Github](https://github-readme-stats.vercel.app/api?username=SobralCybersec&show_icons=true&theme=radical)
 
 
 ###
