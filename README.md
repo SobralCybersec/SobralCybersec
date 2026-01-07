@@ -44,7 +44,6 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=7ofc5ux0d8n32bto7ub2wazbl&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false">
   </a>
 </p>
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SobralCybersec/SobralCybersec/output/pacman-contribution-graph-dark.svg">
