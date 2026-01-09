@@ -94,7 +94,7 @@
 
 <div align="center">
 
-- Computer Science ( Computational Thinking, Computer Programming, Fundamentals of Computer Networks, Information Security, Cloud Computing )
+- Computer Science ( Computational Thinking, Computer Programming, Fundamentals of Computer Networks, Cloud Computing )
 - Python ( Basics ), Java ( Advanced ), C/C++/C# ( Basics ) 
 - Reading now:
 - Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development - Craig Larman
