@@ -22,6 +22,14 @@
 <!--End Intro-->
 
 
+<p align="center">
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#experience">Experience</a> •
+  <a href="#learning-now">Learning</a> •
+  <a href="#certifications">Certifications</a> •
+  <a href="#contact">Contact</a>
+</p>
+
 
 
 ---
@@ -30,6 +38,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,angular,aws,c,cpp,cs,unity&size=72&perline=4" />
 </p>
+
 
 <!--Start Experiences-->
 <h1 align="center">
@@ -106,16 +115,16 @@
 
 <!-- Certifications Section -->
 <h1 align="center">
-  <img src="https://i.imgur.com/DEhRLgB.png" width="50"/>
+  <img src="https://i.imgur.com/DEhRLgB.png" width="40"/>
   Certifications
 </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/I1SEFSk.png" width="300"/>
-  <img src="https://i.imgur.com/DEhRLgB.png" width="300" />
-  <img src="https://i.imgur.com/pcSHK4k.png" width="300"/>
-  <img src="https://i.imgur.com/1EKWRgt.png" width="300"/>
-  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-2bd14aa1-9fb2-4bd2-a3eb-ba33d0ab42e3.jpg?v=1718896062000" width="300"/>
+  <img src="https://i.imgur.com/I1SEFSk.png" width="200"/>
+  <img src="https://i.imgur.com/DEhRLgB.png" width="200" />
+  <img src="https://i.imgur.com/pcSHK4k.png" width="200"/>
+  <img src="https://i.imgur.com/1EKWRgt.png" width="200"/>
+  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-2bd14aa1-9fb2-4bd2-a3eb-ba33d0ab42e3.jpg?v=1718896062000" width="200"/>
 </p>
 
 <!--Contact Section--> 
