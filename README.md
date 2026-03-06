@@ -14,11 +14,11 @@
 <!--Start Intro-->               
 <p align="left"> Java-focused Software Engineer with hands-on experience building and maintaining large-scale applications using Java, Spring Boot, and distributed systems. Proven ability to deliver production-grade software, optimize performance, and work with complex APIs. Experienced in backend development, real-time systems, and containerized environments.</p>
 
-- ✨ Student of Computer Science
-- 💼 I’m currently learning many things, and I love that.
-- 🎓 Tech Educator, Helping People Creating Job CV's, Teaching and Improving their own skills
-- 💻 Contributing to Open Source.
-- 🌐 Making Code funny and great again!
+- <img src="https://i.imgur.com/pNb3ASH.gif" width="20"/> Student of Computer Science(UNESA) and Cibersecurity(FIAP)
+- <img src="https://i.imgur.com/U7W2wFi.png" width="20"/> I’m currently learning many things, and I love that.
+- <img src="https://i.imgur.com/iR7hP5l.gif" width="20"/> Tech Educator, Helping People Creating Job CV's, Teaching and Improving their own skills
+- <img src="https://i.imgur.com/cdDWhbl.png" width="20"/> Contributing to Open Source.
+- <img src="https://i.imgur.com/QmPJzOm.gif" width="20"/> In love and Hate with Java!
 <!--End Intro-->
 
 
@@ -26,7 +26,6 @@
   <a href="#----experience">Experience</a> •
   <a href="#----learning-now">Learning</a> •
   <a href="#----certifications">Certifications</a> •
-  <a href="#----contact">Contact</a>
 </p>
 
 
@@ -143,7 +142,7 @@
 <img src="./github.png" width=50 height=50 alt="SobralCyberSec" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/matheussilvajava/" target="_blank">
+<a href="" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
