@@ -25,7 +25,7 @@
 <p align="center">
   <a href="#----experience">Experience</a> •
   <a href="#----learning-now">Learning</a> •
-  <a href="#----certifications">Certifications</a> •
+  <a href="#----certifications">Certifications</a>
 </p>
 
 
