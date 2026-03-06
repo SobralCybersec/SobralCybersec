@@ -23,11 +23,10 @@
 
 
 <p align="center">
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#experience">Experience</a> •
-  <a href="#learning-now">Learning</a> •
-  <a href="#certifications">Certifications</a> •
-  <a href="#contact">Contact</a>
+  <a href="#----experience">Experience</a> •
+  <a href="#----learning-now">Learning</a> •
+  <a href="#----certifications">Certifications</a> •
+  <a href="#----contact">Contact</a>
 </p>
 
 
