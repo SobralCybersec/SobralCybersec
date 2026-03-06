@@ -47,7 +47,7 @@
 
 <div align="center">
 
-<h3>Software Developer – Overwolf Ltd. (2023–Present)</h3>
+<h3>Software Developer (2023–Present)</h3>
 
 - Designed, developed and maintained multiple large-scale Java-based applications with a combined 2M+ downloads across CurseForge
 - Built modular, object-oriented systems using Java, following clean architecture principles
@@ -126,6 +126,7 @@
   <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-2bd14aa1-9fb2-4bd2-a3eb-ba33d0ab42e3.jpg?v=1718896062000" width="200"/>
 </p>
 
+<hr>
 <!--Contact Section--> 
 <h1 align="center">
   <img src="https://i.imgur.com/2yNxI5F.gif" width="32"/>
