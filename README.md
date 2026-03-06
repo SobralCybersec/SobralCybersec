@@ -94,7 +94,7 @@
 
 <div align="center">
 
-- Computer Science ( Computational Thinking, Computer Programming, Fundamentals of Computer Networks, Cloud Computing )
+- Computer Science ( Computational Thinking, Computer Programming, Fundamentals of Computer Networks, Cloud Computing ), Cybersecurity (Network Fundamentals)
 - Python ( Basics ), Java ( Advanced ), C/C++/C# ( Basics ) 
 - Reading now:
 - Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development - Craig Larman
@@ -103,6 +103,20 @@
 
 <hr />
 <!--End Study-->
+
+<!-- Certifications Section -->
+<h1 align="center">
+  <img src="https://i.imgur.com/DEhRLgB.png" width="50"/>
+  Certifications
+</h1>
+
+<p align="center">
+  <img src="https://i.imgur.com/I1SEFSk.png" width="300"/>
+  <img src="https://i.imgur.com/DEhRLgB.png" width="300" />
+  <img src="https://i.imgur.com/pcSHK4k.png" width="300"/>
+  <img src="https://i.imgur.com/1EKWRgt.png" width="300"/>
+  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-2bd14aa1-9fb2-4bd2-a3eb-ba33d0ab42e3.jpg?v=1718896062000" width="300"/>
+</p>
 
 <!--Contact Section--> 
 <h1 align="center">
