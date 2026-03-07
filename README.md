@@ -121,9 +121,9 @@
   <img src="https://i.imgur.com/I1SEFSk.png" width="300"/>
   <img src="https://i.imgur.com/DEhRLgB.png" width="300" />
   <img src="https://i.imgur.com/pcSHK4k.png" width="300"/>
-  <img src="https://i.imgur.com/1EKWRgt.png" width="300"/>
-  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-2bd14aa1-9fb2-4bd2-a3eb-ba33d0ab42e3.jpg?v=1718896062000" width="300"/>
   <img src="https://i.imgur.com/Xm901Tx.png" width="300"/>
+  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-2bd14aa1-9fb2-4bd2-a3eb-ba33d0ab42e3.jpg?v=1718896062000" width="300"/>
+  <img src="https://i.imgur.com/1EKWRgt.png" width="300"/>
 </p>
 
 <hr>
