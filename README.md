@@ -56,39 +56,67 @@
 - Managed builds and dependencies using Gradle and Git
 
 <hr />
-<!-- JJKU Mod -->
-<p><strong>JJKU (Jujutsu Kaisen Ultimate)</strong></p>
-<a href="https://www.curseforge.com/minecraft/mc-mods/jjku">
-  <img src="http://cf.way2muchnoise.eu/1014693.svg" alt="JJKU Mod Badge" />
-</a>
-<a href="https://www.curseforge.com/minecraft/mc-mods/jjku">
-  <img src="http://cf.way2muchnoise.eu/versions/1014693_latest.svg" alt="JJKU Latest Version" />
-</a>
+
+<table align="center">
+  <tr>
+    <th>Mod</th>
+    <th>Downloads</th>
+    <th>Latest Version</th>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <strong>JJKU (Jujutsu Kaisen Ultimate)</strong><br>
+      <a href="https://www.curseforge.com/minecraft/mc-mods/jjku">View Mod</a>
+    </td>
+    <td align="center">
+      <a href="https://www.curseforge.com/minecraft/mc-mods/jjku">
+        <img src="http://cf.way2muchnoise.eu/1014693.svg" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.curseforge.com/minecraft/mc-mods/jjku">
+        <img src="http://cf.way2muchnoise.eu/versions/1014693_latest.svg" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <strong>JujutsuCraft VE (Visual Effects)</strong><br>
+      <a href="https://www.curseforge.com/minecraft/mc-mods/jujutsucraft-ve-visual-effects">View Mod</a>
+    </td>
+    <td align="center">
+      <a href="https://www.curseforge.com/minecraft/mc-mods/jujutsucraft-ve-visual-effects">
+        <img src="http://cf.way2muchnoise.eu/1177064.svg" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.curseforge.com/minecraft/mc-mods/jujutsucraft-ve-visual-effects">
+        <img src="http://cf.way2muchnoise.eu/versions/1177064_latest.svg" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <strong>Jujutsu Kaisen GT (CO-Developer)</strong><br>
+      <a href="https://www.curseforge.com/minecraft/mc-mods/jujutsu-kaisen-gt">View Mod</a>
+    </td>
+    <td align="center">
+      <a href="https://www.curseforge.com/minecraft/mc-mods/jujutsu-kaisen-gt">
+        <img src="http://cf.way2muchnoise.eu/925091.svg" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.curseforge.com/minecraft/mc-mods/jujutsu-kaisen-gt">
+        <img src="http://cf.way2muchnoise.eu/versions/925091_latest.svg" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <hr />
-
-<!-- JujutsuCraft Visual Effects Mod -->
-<p><strong>JujutsuCraft VE (Visual Effects)</strong></p>
-<a href="https://www.curseforge.com/minecraft/mc-mods/jujutsucraft-ve-visual-effects">
-  <img src="http://cf.way2muchnoise.eu/1177064.svg" alt="JujutsuCraft VE Badge" />
-</a>
-<a href="https://www.curseforge.com/minecraft/mc-mods/jujutsucraft-ve-visual-effects">
-  <img src="http://cf.way2muchnoise.eu/versions/1177064_latest.svg" alt="JujutsuCraft VE Latest Version" />
-</a>
-
-<hr />
-
-<!-- Jujutsu Kaisen GT Mod -->
-<p><strong>Jujutsu Kaisen GT (CO-Developer) </strong></p>
-<a href="https://www.curseforge.com/minecraft/mc-mods/jujutsu-kaisen-gt">
-  <img src="http://cf.way2muchnoise.eu/925091.svg" alt="Jujutsu Kaisen GT Badge" />
-</a>
-<a href="https://www.curseforge.com/minecraft/mc-mods/jujutsu-kaisen-gt">
-  <img src="http://cf.way2muchnoise.eu/versions/925091_latest.svg" alt="Jujutsu Kaisen GT Latest Version" />
-</a>
-<br/><br/>
-
-</div>
 
 <hr />
 <!--End Experiences-->
