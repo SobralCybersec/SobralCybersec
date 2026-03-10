@@ -1,14 +1,15 @@
 <!-- HEADER -->
 <img src="https://i.imgur.com/4vLqjWB.jpeg" />
 
+<!--Header Name-->
+## <img src="https://i.imgur.com/yyjW4TU.png" width="28"/> Hᴇʟʟᴏ I'ᴍ Mᴀᴛʜᴇᴜs S.
+<br /> 
 
+<!-- Right TOP -->
 <div>
   <img align="right" width="45%" src="https://i.imgur.com/AStnCgs.png">
 </div>
 
-<!--Header Name-->
-## <img src="https://i.imgur.com/yyjW4TU.png" width="28"/> Hᴇʟʟᴏ I'ᴍ Mᴀᴛʜᴇᴜs S.
-<br /> 
 
 <!--Start Intro-->
 *Software Engineer (Game & Web Development)*
