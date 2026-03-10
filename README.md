@@ -117,8 +117,6 @@
 </table>
 
 <hr />
-
-<hr />
 <!--End Experiences-->
 
 <!--Start Study-->
@@ -181,6 +179,23 @@
 
 <hr />
 
+<!--Statics-->
+
+<h1 align="center">
+  <img src="https://i.imgur.com/iyxZU2R.gif" width="32"/>
+  Statics
+</h1>
+
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SobralCybersec&layout=compact&theme=dark&hide_border=false" />
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=SobralCybersec&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5" height="400" />
+</div>
+
+---
 <!--Contribution Pacman Graph--> 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SobralCybersec/SobralCybersec/output/pacman-contribution-graph-dark.svg" />
