@@ -3,16 +3,17 @@
 
 
 <div>
-  <img align="right" width="35%" src="https://i.imgur.com/YvCw5uJ.png">
+  <img align="right" width="45%" src="https://i.imgur.com/AStnCgs.png">
 </div>
 
 <!--Header Name-->
-# <img src="https://i.imgur.com/wKdltZr.png" width="28"/> Hᴇʟʟᴏ I'ᴍ Mᴀᴛʜᴇᴜs S. (Sᴀᴛᴜsʜɪ)
-*Software Engineer (Game & Web Development)*
+## <img src="https://i.imgur.com/yyjW4TU.png" width="28"/> Hᴇʟʟᴏ I'ᴍ Mᴀᴛʜᴇᴜs S.
 <br /> 
 
-<!--Start Intro-->               
-<p align="left"> Java-focused Software Engineer with hands-on experience building and maintaining large-scale applications using Java, Spring Boot, and distributed systems. Proven ability to deliver production-grade software, optimize performance, and work with complex APIs. Experienced in backend development, real-time systems, and containerized environments.</p>
+<!--Start Intro-->
+*Software Engineer (Game & Web Development)*
+<p align="left"> 
+Java-focused Software Engineer with hands-on experience building and maintaining large-scale applications using Java, Spring Boot, and distributed systems. Proven ability to deliver production-grade software, optimize performance, and work with complex APIs. Experienced in backend development, real-time systems, and containerized environments.</p>
 
 - <img src="https://i.imgur.com/pNb3ASH.gif" width="20"/> Student of Computer Science(UNESA) and Cibersecurity(FIAP)
 - <img src="https://i.imgur.com/U7W2wFi.png" width="20"/> I’m currently learning many things, and I love that.
@@ -34,7 +35,7 @@
 <!--Start Stack-->     
 <h1 align="center"><img src="https://i.imgur.com/eu3StDB.gif" width="28"/> 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸</h1> 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,aws,c,cpp,cs,unity&size=72&perline=4" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nextjs,aws,c,cpp,cs,unity&size=72&perline=8" />
 </p>
 
 
