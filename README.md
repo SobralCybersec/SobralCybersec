@@ -202,3 +202,20 @@ Java-focused Software Engineer with hands-on experience building and maintaining
 <p align="center">
   <img src="https://raw.githubusercontent.com/SobralCybersec/SobralCybersec/output/pacman-contribution-graph-dark.svg" />
 </p>
+
+
+---
+<!--Live Coding Section-->
+<h1 align="center">
+  <img src="https://i.imgur.com/QmPJzOm.gif" width="32"/>
+  Live Coding Sessions
+</h1>
+
+<div align="center">
+  <p>Latest recording:</p>
+  
+  <video src="https://github.com/SobralCybersec/SobralCybersec/releases/download/live-coding-videos/2026-03-26.10-53-33.mp4" controls></video>
+  
+  <p><em>Auto-recorded live coding session</em></p>
+  <p><a href="https://github.com/SobralCybersec/SobralCybersec/releases/download/live-coding-videos/2026-03-26.10-53-33.mp4">Download Video</a></p>
+</div>
