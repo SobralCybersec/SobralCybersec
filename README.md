@@ -208,6 +208,8 @@ Java-focused Software Engineer with hands-on experience building and maintaining
 
 
 
+
+
 ---
 <!--Live Coding Section-->
 <h1 align="center">
@@ -218,9 +220,10 @@ Java-focused Software Engineer with hands-on experience building and maintaining
 <div align="center">
   <p>Latest recording:</p>
   
-  https://api.github.com/repos/SobralCybersec/SobralCybersec/releases/assets/382136460
+  <video src="https://github.com/SobralCybersec/SobralCybersec/releases/download/live-coding-videos/2026-03-26.11-41-25.mp4" controls width="800"></video>
   
   <p><em>Auto-recorded live coding session</em></p>
 </div>
+
 
 
