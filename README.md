@@ -1,5 +1,3 @@
-<!-- HEADER -->
-<img src="https://i.imgur.com/4vLqjWB.jpeg" />
 
 <!--Header Name-->
 ## <img src="https://i.imgur.com/yyjW4TU.png" width="28"/> Hᴇʟʟᴏ I'ᴍ Mᴀᴛʜᴇᴜs S.
