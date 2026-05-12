@@ -34,7 +34,7 @@ Java-focused Software Engineer with hands-on experience building and maintaining
 <!--Start Stack-->     
 <h1 align="center"><img src="https://i.imgur.com/eu3StDB.gif" width="28"/> 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸</h1> 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nextjs,aws,c,cpp,cs,unity&size=72&perline=8" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,python,rust,asm,c,cpp,cs&size=72&perline=8" />
 </p>
 
 
