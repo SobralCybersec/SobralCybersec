@@ -5,7 +5,8 @@
 
 <!-- Right TOP -->
 <div>
-  <img align="right" width="45%" src="https://i.imgur.com/JHuq1Lq.jpeg">
+  <img align="right" width="45%" src="https://i.imgur.com/6ucIAht.png">
+  <br /> 
 </div>
 
 
@@ -24,18 +25,26 @@ Java-focused Software Engineer with hands-on experience building and maintaining
 
 <p align="center">
   <a href="#----experience">Experience</a> •
-  <a href="#----learning-now">Learning</a> •
   <a href="#----certifications">Certifications</a>
 </p>
 
 
 
 ---
+
 <!--Start Stack-->     
 <h1 align="center"><img src="https://i.imgur.com/eu3StDB.gif" width="28"/> 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸</h1> 
+
+  <img align="left" src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,python,rust,asm,c,cpp,cs,neovim,linux,ts,latex&size=72&perline=4" />
+  
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,python,rust,asm,c,cpp,cs&size=72&perline=8" />
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=SobralCybersec&theme=dark&show_icons=true&border=true">
+      <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=SobralCybersec&show_icons=true&border=true">
+  </picture>
 </p>
+
+<br clear="both" />
 
 
 <!--Start Experiences-->
@@ -119,107 +128,27 @@ Java-focused Software Engineer with hands-on experience building and maintaining
 <hr />
 <!--End Experiences-->
 
-<!--Start Study-->
-<h1 align="center">
-  <img src="https://i.imgur.com/pNb3ASH.gif" width="40"/>
-  Learning Now
-</h1>
-
-<div align="center">
-
-- Computer Science ( Computational Thinking, Computer Programming, Fundamentals of Computer Networks, Cloud Computing ), Cybersecurity (Network Fundamentals)
-- Python ( Basics ), Java ( Advanced ), C/C++/C# ( Basics ) 
-- Reading now:
-- Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development - Craig Larman
-- Fundamentals of Database Systems - Ramez Elmasri e Shamkant B. Navathe
-- The Alchemist - Paulo Coelho
-
-<hr />
-<!--End Study-->
 
 <!-- Certifications Section -->
 <h1 align="center">
-  <img src="https://i.imgur.com/DEhRLgB.png" width="40"/>
+  <img src="https://i.imgur.com/DEhRLgB.png" width="32" />
   Certifications
 </h1>
 
-<p align="center">
-  <img src="https://i.imgur.com/I1SEFSk.png" width="300"/>
-  <img src="https://i.imgur.com/DEhRLgB.png" width="300" />
-  <img src="https://i.imgur.com/pcSHK4k.png" width="300"/>
-  <img src="https://i.imgur.com/Xm901Tx.png" width="300"/>
-  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-2bd14aa1-9fb2-4bd2-a3eb-ba33d0ab42e3.jpg?v=1718896062000" width="300"/>
-  <img src="https://i.imgur.com/1EKWRgt.png" width="300"/>
-</p>
-
-<hr>
-<!--Contact Section--> 
-<h1 align="center">
-  <img src="https://i.imgur.com/2yNxI5F.gif" width="32"/>
-  𝗖𝗼𝗻𝘁𝗮𝗰𝘁
-</h1>
-
 <div align="center">
-  
-<a href="mailto:matheussobrallinkedin@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="matheussobrallinkedin@gmail.com" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.githubcom/SobralCybersec" target="_blank">
-<img src="./github.png" width=50 height=50 alt="SobralCyberSec" style="margin-bottom: 5px;" />
-</a>
-
-<a href="" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-
+  <table>
+    <tr>
+      <td><img src="https://i.imgur.com/I1SEFSk.png" width="180" /></td>
+      <td><img src="https://i.imgur.com/DEhRLgB.png" width="180" /></td>
+      <td><img src="https://i.imgur.com/pcSHK4k.png" width="180" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://i.imgur.com/Xm901Tx.png" width="180" /></td>
+      <td><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-2bd14aa1-9fb2-4bd2-a3eb-ba33d0ab42e3.jpg?v=1718896062000" width="180" /></td>
+      <td><img src="https://i.imgur.com/1EKWRgt.png" width="180" /></td>
+    </tr>
+  </table>
 </div>
-<br/>
-<!--End of Contact Section--> 
-
-<hr />
-
-<!--Statics-->
-
-<h1 align="center">
-  <img src="https://i.imgur.com/iyxZU2R.gif" width="32"/>
-  Statics
-</h1>
-
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SobralCybersec&layout=compact&theme=dark&hide_border=false" />
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=SobralCybersec&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5" height="400" />
-</div>
-
----
-<!--Contribution Pacman Graph--> 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SobralCybersec/SobralCybersec/output/pacman-contribution-graph-dark.svg" />
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
