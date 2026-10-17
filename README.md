@@ -9,9 +9,18 @@
 </div>
 
 <!--Start Intro-->
-*Software Engineer (Game, Web & Enterprise Development) | Full-Stack & Data*
+***Software Engineer** (Game, Web & Enterprise Development) | Full-Stack & Data*
+
+---
+
 <p align="left">
-Java and C# software developer working across game development, enterprise web systems and data. Since 2023, I've developed and maintained Java applications for Minecraft communities, working with APIs, bytecode manipulation, version compatibility and real-time client-server communication. I currently contribute to the SICLO ERP at SH Formas e Andaimes, implementing business rules, interfaces and reports with C#, ASP.NET MVC 5/.NET Framework 4.7.2, Entity Framework 6, DevExpress, React, JavaScript and SQL Server. I have also worked with .NET 9 APIs and use Power BI, DAX and Python/Pandas, with a focus on debugging, data integrity and measurable performance analysis.</p>
+Java and C# software developer working across game development, enterprise web systems and data. 
+  
+Since 2023, I've developed and maintained Java applications for Minecraft communities, working with APIs, bytecode manipulation, version compatibility and real-time client-server communication. 
+
+I currently contribute to the SICLO ERP at SH Formas e Andaimes, implementing business rules, interfaces and reports with C#, ASP.NET MVC 5/.NET Framework 4.7.2, Entity Framework 6, DevExpress, React, JavaScript and SQL Server. 
+
+I have also worked with .NET 9 APIs and use Power BI, DAX and Python/Pandas, with a focus on debugging, data integrity and measurable performance analysis.</p>
 
 - <img src="https://i.imgur.com/pNb3ASH.gif" width="20"/> Student of Computer Science (Estácio/UNESA) and Cybersecurity (FIAP).
 - <img src="https://i.imgur.com/U7W2wFi.png" width="20"/> Currently a Full-Stack Development & Data Intern at SH Formas e Andaimes.
