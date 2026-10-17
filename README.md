@@ -4,7 +4,7 @@
 
 <!-- Right TOP -->
 <div>
-  <img align="right" width="30%" src="https://i.imgur.com/f29VGFK.jpeg">
+  <img align="right" width="40%" src="https://i.imgur.com/f29VGFK.jpeg">
   <br />
 </div>
 
