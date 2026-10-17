@@ -34,7 +34,7 @@ Java and C# software developer working across game development, enterprise web s
 <!--Start Stack-->
 <h1 align="center"><img src="https://i.imgur.com/eu3StDB.gif" width="28"/> 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸</h1>
 
-  <img align="left" src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,python,rust,asm,c,cpp,cs,dotnet,react,javascript,sqlserver,pbi,pandas,azuredevops,neovim,linux,ts,latex&size=72&perline=4" />
+  <img align="left" src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,python,rust,asm,c,cpp,cs,dotnet,react,javascript,sqlserver,pbi,pandas,azuredevops,neovim,linux,ts,latex&size=72&perline=5" />
 
 <p align="center">
   <picture>
