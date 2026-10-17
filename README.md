@@ -1,24 +1,24 @@
 <!--Header Name-->
 ## <img src="https://i.imgur.com/yyjW4TU.png" width="28"/> Hᴇʟʟᴏ I'ᴍ Mᴀᴛʜᴇᴜs S.
-<br /> 
+<br />
 
 <!-- Right TOP -->
 <div>
   <img align="right" width="45%" src="https://i.imgur.com/PIsicrX.png">
-  <br /> 
+  <br />
 </div>
 
-
 <!--Start Intro-->
-*Software Engineer (Game & Web Development)*
-<p align="left"> 
-Java-focused Software Engineer with hands-on experience building and maintaining large-scale applications using Java, Spring Boot, and distributed systems. Proven ability to deliver production-grade software, optimize performance, and work with complex APIs. Experienced in backend development, real-time systems, and containerized environments.</p>
+*Software Engineer (Game, Web & Enterprise Development) | Full-Stack & Data*
+<p align="left">
+Java and C# software developer working across game development, enterprise web systems and data. Since 2023, I've developed and maintained Java applications for Minecraft communities, working with APIs, bytecode manipulation, version compatibility and real-time client-server communication. I currently contribute to the SICLO ERP at SH Formas e Andaimes, implementing business rules, interfaces and reports with C#, ASP.NET MVC 5/.NET Framework 4.7.2, Entity Framework 6, DevExpress, React, JavaScript and SQL Server. I have also worked with .NET 9 APIs and use Power BI, DAX and Python/Pandas, with a focus on debugging, data integrity and measurable performance analysis.</p>
 
-- <img src="https://i.imgur.com/pNb3ASH.gif" width="20"/> Student of Computer Science(UNESA) and Cibersecurity(FIAP)
-- <img src="https://i.imgur.com/U7W2wFi.png" width="20"/> I’m currently learning many things, and I love that.
-- <img src="https://i.imgur.com/iR7hP5l.gif" width="20"/> Tech Educator, Helping People Creating Job CV's, Teaching and Improving their own skills
-- <img src="https://i.imgur.com/cdDWhbl.png" width="20"/> Contributing to Open Source.
-- <img src="https://i.imgur.com/QmPJzOm.gif" width="20"/> In love and Hate with Java!
+- <img src="https://i.imgur.com/pNb3ASH.gif" width="20"/> Student of Computer Science (Estácio/UNESA) and Cybersecurity (FIAP).
+- <img src="https://i.imgur.com/U7W2wFi.png" width="20"/> Currently a Full-Stack Development & Data Intern at SH Formas e Andaimes.
+- <img src="https://i.imgur.com/iR7hP5l.gif" width="20"/> Tech educator: helping people improve their CVs, learn programming and develop technical skills.
+- <img src="https://i.imgur.com/cdDWhbl.png" width="20"/> Contributing to open source.
+- <img src="https://i.imgur.com/QmPJzOm.gif" width="20"/> In love and hate with Java!
+- <a href="https://www.linkedin.com/in/matheusdecyber/">LinkedIn — Experience & Education</a>
 <!--End Intro-->
 
 
@@ -31,11 +31,11 @@ Java-focused Software Engineer with hands-on experience building and maintaining
 
 ---
 
-<!--Start Stack-->     
-<h1 align="center"><img src="https://i.imgur.com/eu3StDB.gif" width="28"/> 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸</h1> 
+<!--Start Stack-->
+<h1 align="center"><img src="https://i.imgur.com/eu3StDB.gif" width="28"/> 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸</h1>
 
-  <img align="left" src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,python,rust,asm,c,cpp,cs,neovim,linux,ts,latex&size=72&perline=4" />
-  
+  <img align="left" src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,python,rust,asm,c,cpp,cs,dotnet,react,javascript,sqlserver,pbi,pandas,azuredevops,neovim,linux,ts,latex&size=72&perline=4" />
+
 <p align="center">
   <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=SobralCybersec&theme=dark&show_icons=true&border=true">
@@ -54,14 +54,27 @@ Java-focused Software Engineer with hands-on experience building and maintaining
 
 <div align="center">
 
-<h3>Software Developer (2023–Present)</h3>
+<h3>Full-Stack Development & Data Intern | SH Formas e Andaimes (Sep 2026–Present)</h3>
 
-- Designed, developed and maintained multiple large-scale Java-based applications with a combined 2M+ downloads across CurseForge
-- Built modular, object-oriented systems using Java, following clean architecture principles
-- Integrated with complex third-party APIs (Forge, Mixin bytecode manipulation)
-- Optimized performance and memory usage for real-time client-server interactions
-- Implemented networking and synchronization logic between client and server
-- Managed builds and dependencies using Gradle and Git
+- Develop and maintain business functionality in the **SICLO ERP** using C#, ASP.NET MVC 5/.NET Framework 4.7.2, Entity Framework 6, DevExpress, React, JavaScript and SQL Server; also worked with .NET 9 APIs.
+- Implemented delivery-request (SEE) checks that total equipment quantities across linked loads and prevent invalid reductions. Improved Tab/Shift+Tab navigation across three editable production-order (PCP/OP) fields, skipping the action column.
+- Fixed access permissions and mobile-number validation (area codes, length and invalid sequences); created a Machine × Equipment grid and restored progress feedback in logistics operations.
+- Developed logistics reports and SQL stored procedures with up to **eight conditional filters**, NULL handling and business-rule validation. Increased incomplete-address test coverage from **3 to 5 scenarios (+66.7%)**.
+- Updated **three Power BI reports** (Resultados, Agendamento and Dimensionamento de Empilhadeiras), using DAX for financial, commercial and operational indicators. Used SQL for DW/ETL and Python/Pandas to clean and reconcile data.
+- Performed **simulated A/B benchmarks** with up to **250 warm-ups and 1,000 runs per variant**, comparing median, p95 and payload sizes. Identified regressions: JSON **4,319 → 5,039 bytes (+16.7%)** and HTML **2,080 → 3,768 bytes (+81.2%)**; these are simulation results, not production performance claims.
+- Investigated HTTP/AJAX issues through Service → Controller → View, checked business-rule and referential integrity using **20 records (10 projects × 2 revisions)**, and documented workflows. Used Git and Azure DevOps for version control and reviews.
+
+<hr />
+
+<h3>Independent Java Software Developer (Dec 2023–Present)</h3>
+
+- Designed, developed and maintained Java-based applications distributed through CurseForge and Modrinth, with **1.2M+ downloads** on published projects and contributions to other projects reporting **10M+ downloads**.
+- Built modular, object-oriented systems using Java, following clean architecture principles.
+- Integrated with complex third-party APIs (Forge, Mixin bytecode manipulation).
+- Optimized performance and memory usage for real-time client-server interactions.
+- Implemented networking and synchronization logic between client and server.
+- Maintained compatibility across game/mod versions, investigated community-reported issues and incorporated user feedback.
+- Managed builds and dependencies using Gradle and Git.
 
 <hr />
 
@@ -71,7 +84,6 @@ Java-focused Software Engineer with hands-on experience building and maintaining
     <th>Downloads</th>
     <th>Latest Version</th>
   </tr>
-
   <tr>
     <td align="center">
       <strong>JJKU (Jujutsu Kaisen Ultimate)</strong><br>
@@ -88,7 +100,6 @@ Java-focused Software Engineer with hands-on experience building and maintaining
       </a>
     </td>
   </tr>
-
   <tr>
     <td align="center">
       <strong>JujutsuCraft VE (Visual Effects)</strong><br>
@@ -105,7 +116,6 @@ Java-focused Software Engineer with hands-on experience building and maintaining
       </a>
     </td>
   </tr>
-
   <tr>
     <td align="center">
       <strong>Jujutsu Kaisen GT (CO-Developer)</strong><br>
@@ -125,6 +135,7 @@ Java-focused Software Engineer with hands-on experience building and maintaining
 </table>
 
 <hr />
+</div>
 <!--End Experiences-->
 
 
@@ -147,554 +158,8 @@ Java-focused Software Engineer with hands-on experience building and maintaining
       <td><img src="https://i.imgur.com/1EKWRgt.png" width="180" /></td>
     </tr>
   </table>
+  <p><strong>FIAP credentials:</strong> .NET Development (May 2026) &bull; Professional Qualification in Cybersecurity (June 2026)</p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 <!--Live Coding Section-->
@@ -705,291 +170,8 @@ Java-focused Software Engineer with hands-on experience building and maintaining
 
 <div align="center">
   <p>Latest recording:</p>
-  
+
   <img src="https://github.com/SobralCybersec/SobralCybersec/releases/download/live-coding-videos/2026-03-30.12-58-24.gif" width="800" alt="Live Coding Session"/>
-  
+
   <p><em>Auto-recorded live coding session</em></p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
